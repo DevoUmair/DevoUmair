@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQF1KF-k_hLerg/profile-displaybackgroundimage-shrink_350_1400/0/1690392295480?e=1698278400&v=beta&t=iAapuzayLBQUef1Cc_4bUfpabp7LxmpTGnnmoSM5vRk" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Umair Lafir</h1>
 <h3 align="center">Passionate Full Stack Developer & Machine Learning Enthusiast from Sri Lanka 🇱🇰</h3>
@@ -10,9 +6,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working at [NYK Trading](https://www.nyktradingjp.com/)
-- 🌱 Learning: **Machine Learning**
-- 👨‍💻 Portfolio: [umairlafir-1ae7d.web.app](https://umairlafir-1ae7d.web.app/)
+- 🔭 Currently working as **Technical Lead** at [Causeway Carrental](https://www.nyktradingjp.com/)
+- 💼 Expert in **Full Stack Software Development**, specializing in scalable architectures and cloud-native solutions  
+- 🌱 Currently learning **Machine Learning** to integrate intelligent systems into modern applications
+- 👨‍💻 Portfolio: [https://umairlafir.com](https://umairlafir.com)
 - 📫 Reach me at: **lafirumair087@gmail.com**
 
 ---
@@ -75,8 +72,3 @@
 
 ---
 
-### 🔥 Fun Animation
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtidGFnNHlmNmN6Nm03NWV4dTBhMmhkMGh4NzF0cXN1Mno2czdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
