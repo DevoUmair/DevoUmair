@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as **Technical Lead** at [Causeway Carrental](https://www.nyktradingjp.com/)
+- 🔭 Currently working as **Technical Lead** at [Causeway Carrental](https://www.causeway.my)
 - 💼 Expert in **Full Stack Software Development**, specializing in scalable architectures and cloud-native solutions  
 - 🌱 Currently learning **Machine Learning** to integrate intelligent systems into modern applications
 - 👨‍💻 Portfolio: [https://umairlafir.com](https://umairlafir.com)
