@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="300" alt="Coding Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9f5e-4b47eaab4b0b.gif" width="300" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -80,19 +80,19 @@
   <br>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=devoumair&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117" alt="devoumair stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devoumair&theme=radical&hide_border=true&background=0d1117" alt="devoumair streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devoumair&show_icons=true&locale=en&theme=tokyonight" alt="devoumair stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devoumair&theme=tokyonight" alt="devoumair streak" />
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devoumair&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devoumair&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
   </p>
   
   <br>
   
   <h3>🏆 Trophies</h3>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devoumair&theme=radical&margin-w=15&row=1&column=6&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=devoumair&theme=onedark&margin-w=15&row=2&column=3" alt="Trophies" />
   </p>
 </div>
 
