@@ -139,7 +139,7 @@
   <br>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairlafir&theme=tokyonight" alt="umairlafir streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devoumair&theme=tokyonight" alt="devoumair streak" />
   </p>
 </div>
 
@@ -149,3 +149,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+
