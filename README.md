@@ -138,9 +138,7 @@
   <h2>📊 GitHub Analytics</h2>
   <br>
   
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair&theme=tokyonight" alt="DevoUmair streak" />
-  </p>
+ <img src="[https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair\&theme=tokyonight)" />
 </div>
 
 <br>
