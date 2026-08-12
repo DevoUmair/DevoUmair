@@ -1,15 +1,15 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Umair%20Lafir%20!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=250&section=header&text=Hi%20there,%20I'm%20Umair%20Lafir%20!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
   <h3>🚀 Full-Stack AI Engineer @ Octdaily | Machine Learning, Deep Learning, GenAI & Cloud Architecture</h3>
   <p>Building production-grade AI systems, LLM agents, computer vision platforms, and scalable enterprise applications.</p>
   
   <p align="center">
-    <a href="https://linkedin.com/in/umairlafir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/DevoUmair"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://wa.me/94776344127"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    <a href="mailto:lafirumair087@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com/in/umairlafir"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/DevoUmair"><img src="https://img.shields.io/badge/GitHub-0A0F0D?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/></a>
+    <a href="https://wa.me/94776344127"><img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <a href="mailto:lafirumair087@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -69,34 +69,34 @@
   
   <p align="center">
     <strong>AI, ML & Data Science</strong><br><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+    <img src="https://img.shields.io/badge/Python-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Deep_Learning-10B981?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
     <img src="https://img.shields.io/badge/Generative_AI-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-    <img src="https://img.shields.io/badge/LLMs_%26_RAG-00599C?style=for-the-badge&logo=langchain&logoColor=white" alt="LLMs & RAG" />
-    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/LLMs_%26_RAG-10B981?style=for-the-badge&logo=langchain&logoColor=white" alt="LLMs & RAG" />
+    <img src="https://img.shields.io/badge/LangGraph-10B981?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   </p>
   
   <p align="center">
     <strong>Backend & Databases</strong><br><br>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/C%23-10B981?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/.NET_Core-10B981?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-10B981?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
+    <img src="https://img.shields.io/badge/Node.js-10B981?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/SQL_Server-10B981?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-10B981?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 
   <p align="center">
     <strong>Frontend & Cloud Tools</strong><br><br>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Angular-10B981?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/React.js-10B981?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-10B981?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Docker-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Azure-10B981?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Git-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 </div>
 
@@ -110,22 +110,41 @@
   <table align="center">
     <tr>
       <td width="50%">
-        <strong>🎓 Autimate (FYP - NED University)</strong><br>
-        AI-powered speech therapy platform for children with Autism Spectrum Disorder (ASD) utilizing audio pronunciation analysis, adaptive feedback, and ML progress tracking.
+        <strong>📖 <a href="https://apps.apple.com/pk/app/qurango/id6759332108">QuranGo – Interactive Quran Learning App</a></strong><br>
+        Interactive Quran learning mobile app built with Flutter & Firebase. Features structured lessons, built-in quizzes, progress tracking, and instant feedback.<br><br>
+        <a href="https://apps.apple.com/pk/app/qurango/id6759332108"><img src="https://img.shields.io/badge/App_Store-10B981?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.saim1234.QuranApp"><img src="https://img.shields.io/badge/Google_Play-10B981?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store"/></a>
       </td>
       <td width="50%">
-        <strong>🏆 WebKode Hackathon Champion</strong><br>
-        1st place winning web platform built under high pressure with rapid prototyping, clean architecture, and modern full-stack engineering.
+        <strong>🚗 Urbanway – Automated Ride Management</strong><br>
+        Ride management platform featuring real-time driver location tracking via Socket.io, Google Maps API navigation, dynamic ride assignment, and admin dashboard.<br><br>
+        <img src="https://img.shields.io/badge/Mobile_App-10B981?style=flat-square&logo=socketdotio&logoColor=white" alt="Mobile App"/>
+        <img src="https://img.shields.io/badge/Socket.io_%26_Maps-0A0F0D?style=flat-square" alt="Socket.io"/>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <strong>📱 Qurango & Paddyway Academy</strong><br>
-        Commercial production mobile & web applications delivered to app stores with seamless user experiences.
+        <strong>🎓 <a href="https://www.paddywayacademy.com/">Paddyway Academy – LMS Platform</a></strong><br>
+        Scalable MERN online LMS platform for secure digital education. Features device registration, student progress tracking, and protected video streaming.<br><br>
+        <a href="https://www.paddywayacademy.com/"><img src="https://img.shields.io/badge/Website-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.paddyway_academy.paddyway_academy"><img src="https://img.shields.io/badge/Google_Play-10B981?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store"/></a>
       </td>
       <td width="50%">
-        <strong>🌐 NYK Trading</strong><br>
-        Enterprise trading and commercial platform built with robust backend systems and real-time workflows.
+        <strong>🚙 <a href="https://causeway.my">Causeway.my – Car Rental Platform</a></strong><br>
+        Online car rental booking platform in Malaysia designed to explore and book vehicles with real-time availability, transparent pricing, and automated admin management.<br><br>
+        <a href="https://causeway.my"><img src="https://img.shields.io/badge/Website-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>🤖 <a href="https://collabriai.vercel.app">Collabri AI – Agentic Project Manager</a></strong><br>
+        Agentic AI-driven project management platform powered by LangGraph, LangChain, and RAG for automated sprint planning and task assignment.<br><br>
+        <a href="https://collabriai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+      </td>
+      <td width="50%">
+        <strong>🎙️ Autimate (FYP - NED University)</strong><br>
+        AI speech therapy platform for children with Autism Spectrum Disorder (ASD) utilizing audio pronunciation analysis, adaptive feedback, and ML progress tracking.<br><br>
+        <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-10B981?style=flat-square" alt="AI ML"/>
       </td>
     </tr>
   </table>
@@ -138,12 +157,14 @@
   <h2>📊 GitHub Analytics</h2>
   <br>
   
- <img src="[https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair\&theme=tokyonight)" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevoUmair&theme=dark&background=0A0F0D&ring=10B981&fire=10B981&currStreakNum=FFFFFF&sideNums=10B981&sideLabels=34D399&dates=A0AEC0" alt="DevoUmair GitHub Streak" />
+  </p>
 </div>
 
 <br>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=100&section=footer" />
 </div>
