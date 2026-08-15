@@ -6,7 +6,7 @@
   <p>Building production-grade AI systems, LLM agents, computer vision platforms, and scalable enterprise applications.</p>
   
   <p align="center">
-    <a href="https://linkedin.com/in/umairlafir"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/umair-lafir"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/DevoUmair"><img src="https://img.shields.io/badge/GitHub-0A0F0D?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/></a>
     <a href="https://wa.me/94776344127"><img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     <a href="mailto:lafirumair087@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
